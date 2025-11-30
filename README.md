@@ -2,6 +2,8 @@
 Developer Java i JavaScript. Tworzę boty Discord oraz pluginy do Minecrafta, stawiając na prostotę, wydajność i czysty, łatwy w utrzymaniu kod.
 
 
+
+
 # external
 
 Developer Java & JavaScript  
@@ -28,11 +30,6 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 ## 🚀 Projekty
 - **Boty Discord** – moderacja, automatyczne akcje, inteligentne systemy komend  
 - **Pluginy Minecraft** – customowe mechaniki, systemy gameplay, narzędzia dla administracji  
-
----
-
-## 📊 Statystyki GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=external&show_icons=true&hide_title=true&hide_border=true)
 
 ---
 
