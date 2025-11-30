@@ -61,4 +61,7 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 
 ![hydraleaks](images/image8.png) #9
 
+<img src="images/image.png" alt="hydraleaks" width="40"/>
+<img src="images/image1.png" alt="hydraleaks" width="40"/>
+<img src="images/image2.png" alt="hydraleaks" width="40"/>
 
