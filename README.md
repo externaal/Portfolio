@@ -29,7 +29,7 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 
 ## 🚀 Projekty
 - Bot Discord dla HydraLeaks (7k użytkowników) – komendy, moderacja, automatyzacje  
-- Pluginy Minecraft – serwer 2k [discord], mechaniki i narzędzia administracyjne  
+- Pluginy Minecraft – serwer MnCraft.PL 2k [discord], mechaniki i narzędzia administracyjne  
 - Własne projekty – boty, pluginy i eksperymentalne narzędzia w Java i JS
 
 ---
