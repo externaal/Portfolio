@@ -35,7 +35,7 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 ---
 
 ## 📫 Kontakt
-- Discord: *tu wpisz swój nick*  
+- Discord: *external.com*  
 
 ---
 
@@ -43,6 +43,14 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 **Developer Java i JavaScript. Tworzę boty Discord oraz pluginy do Minecrafta, stawiając na prostotę, wydajność i czysty, łatwy w utrzymaniu kod.**
 
 
-![hydraleaks](images/image.png) ![hydraleaks](images/image1.png) ![hydraleaks](images/image2.png) ![hydraleaks](images/image3.png) ![hydraleaks](images/image4.png) ![hydraleaks](images/image5.png) ![hydraleaks](images/image6.png) ![hydraleaks](images/image7.png) ![hydraleaks](images/image8.png) ![hydraleaks](images/image9.png)
+![hydraleaks](images/image.png) #1
+![hydraleaks](images/image1.png) #2
+![hydraleaks](images/image2.png) #3
+![hydraleaks](images/image3.png) #4
+![hydraleaks](images/image4.png) #5
+![hydraleaks](images/image5.png) #6
+![hydraleaks](images/image6.png) #7
+![hydraleaks](images/image7.png) #8
+![hydraleaks](images/image8.png) #9
 
 
