@@ -43,6 +43,6 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 **Developer Java i JavaScript. Tworzę boty Discord oraz pluginy do Minecrafta, stawiając na prostotę, wydajność i czysty, łatwy w utrzymaniu kod.**
 
 
-![hydraleaks](images/image.png) ![hydraleaks](images/image1.png) ![hydraleaks](images/image2.png) ![hydraleaks](images/image3.png) ![hydraleaks](images/image4.png) ![hydraleaks](images/image5.png)
+![hydraleaks](images/image.png) ![hydraleaks](images/image1.png) ![hydraleaks](images/image2.png) ![hydraleaks](images/image3.png) ![hydraleaks](images/image4.png) ![hydraleaks](images/image5.png) ![hydraleaks](images/image6.png) ![hydraleaks](images/image7.png) ![hydraleaks](images/image8.png) ![hydraleaks](images/image9.png)
 
 
