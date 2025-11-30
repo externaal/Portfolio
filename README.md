@@ -43,25 +43,8 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 **Developer Java i JavaScript. Tworzę boty Discord oraz pluginy do Minecrafta, stawiając na prostotę, wydajność i czysty, łatwy w utrzymaniu kod.**
 
 
-![hydraleaks](images/image.png) #1
 
-![hydraleaks](images/image1.png) #2
-
-![hydraleaks](images/image2.png) #3
-
-![hydraleaks](images/image3.png) #4
-
-![hydraleaks](images/image4.png) #5
-
-![hydraleaks](images/image5.png) #6
-
-![hydraleaks](images/image6.png) #7
-
-![hydraleaks](images/image7.png) #8
-
-![hydraleaks](images/image8.png) #9
-
-<img src="images/image.png" alt="hydraleaks" width="40"/>
-<img src="images/image1.png" alt="hydraleaks" width="40"/>
-<img src="images/image2.png" alt="hydraleaks" width="40"/>
+<img src="images/image.png" alt="hydraleaks" width="100"/> <img src="images/image3.png" alt="hydraleaks" width="100"/> <img src="images/image6.png" alt="hydraleaks" width="100"/>
+<img src="images/image1.png" alt="hydraleaks" width="100"/> <img src="images/image4.png" alt="hydraleaks" width="100"/> <img src="images/image7.png" alt="hydraleaks" width="100"/>
+<img src="images/image2.png" alt="hydraleaks" width="100"/> <img src="images/image5.png" alt="hydraleaks" width="100"/> <img src="images/image8.png" alt="hydraleaks" width="100"/>
 
