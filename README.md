@@ -44,13 +44,21 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 
 
 ![hydraleaks](images/image.png) #1
+
 ![hydraleaks](images/image1.png) #2
+
 ![hydraleaks](images/image2.png) #3
+
 ![hydraleaks](images/image3.png) #4
+
 ![hydraleaks](images/image4.png) #5
+
 ![hydraleaks](images/image5.png) #6
+
 ![hydraleaks](images/image6.png) #7
+
 ![hydraleaks](images/image7.png) #8
+
 ![hydraleaks](images/image8.png) #9
 
 
