@@ -21,10 +21,6 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 - Boty Discord (discord.js)  
 - Systemy komend, automatyzacje, integracje API
 
-### 📦 Inne
-- Node.js  
-- Maven  
-
 ---
 
 ## 🚀 Projekty
@@ -38,11 +34,6 @@ Tworzę boty Discord oraz pluginy do Minecrafta. Stawiam na prostotę, wydajnoś
 - Discord: *external.com*  
 
 ---
-
-## 📝 Krótki opis repozytorium
-**Developer Java i JavaScript. Tworzę boty Discord oraz pluginy do Minecrafta, stawiając na prostotę, wydajność i czysty, łatwy w utrzymaniu kod.**
-
-
 
 <img src="images/image.png" alt="hydraleaks" width="100"/> <img src="images/image3.png" alt="hydraleaks" width="100"/> <img src="images/image6.png" alt="hydraleaks" width="100"/>
 <img src="images/image1.png" alt="hydraleaks" width="100"/> <img src="images/image4.png" alt="hydraleaks" width="100"/> <img src="images/image7.png" alt="hydraleaks" width="100"/>
