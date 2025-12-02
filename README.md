@@ -30,3 +30,4 @@ Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minec
 <img src="images/bps.png" alt="bps" width="100"/> <img src="images/bps2.png" alt="bps" width="100"/> <img src="images/bps3.png" alt="bps" width="100"/> <img src="images/bps4.png" alt="bps" width="100"/>
 
 ## Bot dla serwera - ŁL Shop (ok. 80 użytkowników)
+<img src="images/lipek1.png" alt="lipek" width="100"/> <img src="images/lipek2.png" alt="lipek" width="100"/> <img src="images/lipek3.png" alt="lipek" width="100"/> <img src="images/lipek.png" alt="lipek4" width="100"/>
