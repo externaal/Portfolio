@@ -14,7 +14,7 @@ Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minec
 ## 🚀 Wybrane projekty
 - **Bot Discord dla HydraLeaks (7k użytkowników)**
   Moderacja, automatyzacje i niestandardowe funkcje dla społeczności
-- **Pluginy Minecraft dla serwera MnCraft.PL (2k na Discordzie)**
+- **Pluginy Minecraft dla serwera MnCraft.PL (2k na Discordzie [80 - 100 graczy w Minecraftcie])**
   Mechaniki serwerowe, narzędzia administracyjne, stabilna infrastruktura
 - **Projekty własne**
   Boty, pluginy oraz różne narzędzia w Java i JavaScript
