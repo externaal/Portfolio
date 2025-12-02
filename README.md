@@ -25,3 +25,5 @@ Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minec
 ## Bot dla serwera - HydraLeaks (ok. 7k użytkowników)
 
 <img src="images/image.png" alt="hydraleaks" width="100"/> <img src="images/image3.png" alt="hydraleaks" width="100"/> <img src="images/image6.png" alt="hydraleaks" width="100"/> <img src="images/image1.png" alt="hydraleaks" width="100"/> <img src="images/image4.png" alt="hydraleaks" width="100"/> <img src="images/image7.png" alt="hydraleaks" width="100"/> <img src="images/image2.png" alt="hydraleaks" width="100"/> <img src="images/image5.png" alt="hydraleaks" width="100"/> <img src="images/image8.png" alt="hydraleaks" width="100"/>
+
+## Bot dla serwera - Bypass Cheats & Configs (ok. 700 użytkowników)
