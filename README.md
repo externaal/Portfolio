@@ -28,3 +28,5 @@ Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minec
 
 ## Bot dla serwera - Bypass Cheats & Configs (ok. 700 użytkowników)
 <img src="images/bps.png" alt="bps" width="100"/> <img src="images/bps2.png" alt="bps" width="100"/> <img src="images/bps3.png" alt="bps" width="100"/> <img src="images/bps4.png" alt="bps" width="100"/>
+
+## Bot dla serwera - ŁL Shop (ok. 80 użytkowników)
