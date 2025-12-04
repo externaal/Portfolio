@@ -7,7 +7,7 @@ Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minec
 - Pluginy Minecraft (Spigot / Paper)
 - Tworzenie mechanik, logiki gry i narzędzi administracyjnych
 
-### 🟨 JavaScript
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - Boty Discord (discord.js)
 - Rozbudowane systemy komend, automatyzacje, integracje z API
 
