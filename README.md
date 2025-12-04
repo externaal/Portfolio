@@ -1,7 +1,7 @@
 # Portfolio
 Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minecrafta, stawiając na prostotę, dobrą wydajność i czysty, czytelny kod.
 
-## ⚙️ Technologie
+## 💻 Technologie
 
 ### ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 - Pluginy Minecraft (Spigot / Paper)
