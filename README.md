@@ -20,7 +20,7 @@ Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minec
   Boty, pluginy oraz różne narzędzia w Java i JavaScript
 
 ## 📫 Kontakt
-- Discord: external.com
+- Discord: [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/channels/@me/1401594518125543479)
 
 ## Bot dla serwera - HydraLeaks (ok. 7k użytkowników)
 
