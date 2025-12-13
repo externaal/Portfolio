@@ -26,7 +26,7 @@ Jestem developerem Java i JavaScript. Tworzę boty Discord oraz pluginy do Minec
 
 <img src="images/image.png" alt="hydraleaks" width="100"/> <img src="images/image3.png" alt="hydraleaks" width="100"/> <img src="images/image6.png" alt="hydraleaks" width="100"/> <img src="images/image1.png" alt="hydraleaks" width="100"/> <img src="images/image4.png" alt="hydraleaks" width="100"/> <img src="images/image7.png" alt="hydraleaks" width="100"/> <img src="images/image2.png" alt="hydraleaks" width="100"/> <img src="images/image5.png" alt="hydraleaks" width="100"/> <img src="images/image8.png" alt="hydraleaks" width="100"/>
 
-## Bot dla serwera - Bypass Cheats & Configs (ok. 700 użytkowników)
+## Bot dla serwera - Bypass Cheats & Configs (ok. 850 użytkowników)
 <img src="images/bps.png" alt="bps" width="100"/> <img src="images/bps2.png" alt="bps" width="100"/> <img src="images/bps3.png" alt="bps" width="100"/> <img src="images/bps4.png" alt="bps" width="100"/>
 
 ## Bot dla serwera - ŁL Shop (ok. 80 użytkowników)
